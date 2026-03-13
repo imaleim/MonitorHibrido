@@ -1,0 +1,61 @@
+[
+    {
+        "event": "arp_packet",
+        "header_bytes": "0 50 56 ec 9e d6 0 c 29 e4 43 6c 8 6 0 1 8 0 6 4 0 1 0 c ",
+        "source_ip": "unknown",
+        "timestamp": "2026-03-13T02:07:40Z"
+    },
+    {
+        "event": "arp_packet",
+        "header_bytes": "0 c 29 e4 43 6c 0 50 56 ec 9e d6 8 6 0 1 8 0 6 4 0 2 0 50 ",
+        "source_ip": "unknown",
+        "timestamp": "2026-03-13T02:07:40Z"
+    },
+    {
+        "description": "Demasiados paquetes ICMP detectados",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:07:48Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:08:51Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:09:21Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:09:51Z"
+    },
+    {
+        "event": "mac_change",
+        "new_value": "00:11:22:33:44:55",
+        "old_value": "00:0c:29:e4:43:6c",
+        "timestamp": "2026-03-13T02:10:11Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:10:21Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:10:31Z"
+    },
+    {
+        "event": "mac_change",
+        "new_value": "00:0c:29:e4:43:6c",
+        "old_value": "00:11:22:33:44:55",
+        "timestamp": "2026-03-13T02:10:51Z"
+    },
+    {
+        "description": "Cambio de IP detectado",
+        "event": "anomaly",
+        "timestamp": "2026-03-13T02:10:51Z"
+    }
+]
