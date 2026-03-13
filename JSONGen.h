@@ -1,3 +1,4 @@
+//Joustin Joel Martinez Carranza
 #ifndef JSONGEN_H
 #define JSONGEN_H
 
