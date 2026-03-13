@@ -1,3 +1,5 @@
+//LUIS SANTIAGO CANTÚ NIÑO
+
 #include "Identidad.h"
 #include "JSONGen.h"
 #include <fstream>
