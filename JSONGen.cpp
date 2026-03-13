@@ -1,3 +1,4 @@
+//Joustin Joel Martinez Carranza
 #include "JSONGen.h"
 #include <nlohmann/json.hpp>
 #include <vector>
